@@ -1,0 +1,27 @@
+{
+  "name": "StylusPostcssInlineSvg",
+  "version": "1.0.0",
+  "description": "Basic Stylus with PostCSS processors [postcss-inline-svg, autoprefixer, cssnano] and multy CSS files output setup using Grunt",
+  "author": "Asher Indursky",
+  "license": "MIT",
+  "devDependencies": {
+    "autoprefixer": "^6.5.3",
+    "cssnano": "^3.8.1",
+    "grunt": "^1.0.1",
+    "grunt-contrib-connect": "^1.0.2",
+    "grunt-contrib-stylus": "^1.2.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-postcss": "^0.8.0",
+    "grunt-svgo": "^0.1.0",
+    "postcss-inline-svg": "^2.3.0",
+    "spritesh": "^1.2.0",
+    "svgo": "^2.3.0"
+  },
+  "scripts": {
+    "start": "grunt --force",
+    "_sprite": "spritesh --input components/svg --output builds/svg-sprite.svg",
+    "sprite": "spritesh --input builds/svg-optim --output builds/svg-sprite.svg",
+    "presprite": "yarn svgo -f components/svg -o builds/svg-optim"
+  },
+  "_comment": "npm i -D autoprefixer cssnano grunt grunt-contrib-connect grunt-contrib-stylus grunt-contrib-watch grunt-postcss postcss-inline-svg spritesh svgo"
+}

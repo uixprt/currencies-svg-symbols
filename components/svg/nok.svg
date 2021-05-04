@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 55 55">
+  <defs>
+    <clipPath id="clip-path">
+      <circle cx="27.5" cy="27.5" r="23.32" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="nok">
+    <g clip-path="url(#clip-path)">
+      <g>
+        <path d="M-4.57,50.82H15V33.1H-4.57V50.82Zm30.78,0H65.4V33.1H26.22V50.82ZM65.4,21.9V4.18H26.22V21.9ZM15,4.18H-4.57V21.9H15V4.18Z" fill="#ee2724" fill-rule="evenodd"/>
+        <path d="M15,50.82h2.8V30.3H-4.57v2.8H15V50.82Zm8.4,0h2.8V33.1H65.4V30.3h-42V50.82Zm42-26.12V21.9H26.22V4.18h-2.8V24.7ZM17.82,4.18H15V21.9H-4.57v2.8H17.82V4.18Z" fill="#f4f4f5" fill-rule="evenodd"/>
+        <polygon points="-4.57 30.3 17.82 30.3 17.82 50.82 23.42 50.82 23.42 30.3 65.4 30.3 65.4 24.7 23.42 24.7 23.42 4.18 17.82 4.18 17.82 24.7 -4.57 24.7 -4.57 30.3 -4.57 30.3" fill="#214097" stroke="#f4f4f5" stroke-miterlimit="2.41" stroke-width="0.09" fill-rule="evenodd"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,44 @@
+body
+  background-color $color-body-background;
+  color $color-font-default
+  font-family $font-family-base
+  font-weight $font-weight-base;
+
+*,
+input,
+select,
+textarea,
+button
+  font inherit
+
+ul
+  padding 0
+  list-style none
+
+a
+  display inline-block
+  color inherit
+
+input
+  border 0
+
+button
+  border 0
+  background-color transparent
+  color inherit
+
+[data-view-name="forex/tradingEntitiesCfd"]
+[data-view-name="forex/tradingEntitiesCfd-item"]
+  display flex
+
+.assetsContainer
+  border 1px solid $color-border-default;
+  .chosen-single
+    padding 0.5em
+    color $color-font-headings;
+  .chosen-results
+    > li
+      padding 0.5em
+      
+  .group-result
+    background-color $color-faded-background

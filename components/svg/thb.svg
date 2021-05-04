@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 55 55">
+  <defs>
+    <clipPath id="clip-path">
+      <circle cx="27.5" cy="27.5" r="23.32" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="thb">
+    <g clip-path="url(#clip-path)">
+      <g>
+        <path d="M62.48,12v7.77h-70V12Zm0,23.32V43h-70V35.27Z" fill="#f4f4f5" fill-rule="evenodd"/>
+        <path d="M-7.48,50.82h70V43h-70v7.77ZM62.48,12V4.18h-70V12Z" fill="#ee2724" fill-rule="evenodd"/>
+        <polygon points="-7.48 35.27 62.48 35.27 62.48 19.73 -7.48 19.73 -7.48 35.27 -7.48 35.27" fill="#214097" fill-rule="evenodd"/>
+      </g>
+    </g>
+  </g>
+</svg>
