@@ -3,7 +3,7 @@
 		<circle id="a" cx="27.5" cy="27.5" r="23.3"/>
 	</defs>
 	<clipPath id="b">
-		<use overflow="visible" xlink:href="#a"/>
+		<use overflow="visible" href="#a"/>
 	</clipPath>
 	<g clip-path="url(#b)">
 		<path fill="#214097" d="M-7.5 4.2h70v46.6h-70V4.2z"/>

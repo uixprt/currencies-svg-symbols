@@ -8,8 +8,8 @@
       <stop offset="0.75" stop-color="#f05870"/>
       <stop offset="1" stop-color="#f05770"/>
     </radialGradient>
-    <radialGradient id="New_Gradient_53-2" cx="24304.7" cy="-45350.71" r="11.72" gradientTransform="translate(-1550.08 635.61) rotate(40.75) scale(0.03)" xlink:href="#New_Gradient_53"/>
-    <radialGradient id="New_Gradient_53-3" cx="-2976.49" cy="-40501.74" r="11.72" gradientTransform="matrix(0.01, 0.04, -0.04, 0.01, -1537.16, 689.82)" xlink:href="#New_Gradient_53"/>
+    <radialGradient id="New_Gradient_53-2" cx="24304.7" cy="-45350.71" r="11.72" gradientTransform="translate(-1550.08 635.61) rotate(40.75) scale(0.03)" href="#New_Gradient_53"/>
+    <radialGradient id="New_Gradient_53-3" cx="-2976.49" cy="-40501.74" r="11.72" gradientTransform="matrix(0.01, 0.04, -0.04, 0.01, -1537.16, 689.82)" href="#New_Gradient_53"/>
   </defs>
   <g id="mxn">
     <g clip-path="url(#clip-path)">

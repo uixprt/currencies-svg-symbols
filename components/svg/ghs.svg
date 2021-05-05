@@ -1,1 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 55 55"><defs><clipPath id="a"><circle cx="97.5" cy="27.5" r="23.3" style="fill:none"/></clipPath></defs><path d="M27.5,4.2A23.33,23.33,0,0,0,5.534,19.733H49.466A23.336,23.336,0,0,0,27.5,4.2Z" style="fill:#ce1126"/><path d="M50.8,27.5a23.141,23.141,0,0,0-1.334-7.767H5.534a23.278,23.278,0,0,0,0,15.534H49.466A23.185,23.185,0,0,0,50.8,27.5Z" style="fill:#fcd116"/><path d="M5.534,35.267a23.3,23.3,0,0,0,43.932,0Z" style="fill:#006b3f"/><polygon points="27.5 19.733 29.425 25.664 35.664 25.664 30.617 29.331 32.547 35.267 27.5 31.595 22.453 35.267 24.378 29.331 19.331 25.664 25.57 25.664 27.5 19.733"/><g style="clip-path:url(#a)"><rect x="54.702" y="35.58" width="85.595" height="15.696" style="fill:#d81f26"/><rect x="54.702" y="3.724" width="85.595" height="31.857" style="fill:#fff"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 55 55">
+    <defs>
+        <clipPath id="a">
+            <circle cx="97.5" cy="27.5" r="23.3" style="fill:none"/>
+        </clipPath>
+    </defs>
+    <path d="M27.5,4.2A23.33,23.33,0,0,0,5.534,19.733H49.466A23.336,23.336,0,0,0,27.5,4.2Z" style="fill:#ce1126"/>
+    <path d="M50.8,27.5a23.141,23.141,0,0,0-1.334-7.767H5.534a23.278,23.278,0,0,0,0,15.534H49.466A23.185,23.185,0,0,0,50.8,27.5Z"
+          style="fill:#fcd116"/>
+    <path d="M5.534,35.267a23.3,23.3,0,0,0,43.932,0Z" style="fill:#006b3f"/>
+    <polygon
+            points="27.5 19.733 29.425 25.664 35.664 25.664 30.617 29.331 32.547 35.267 27.5 31.595 22.453 35.267 24.378 29.331 19.331 25.664 25.57 25.664 27.5 19.733"/>
+    <g style="clip-path:url(#a)">
+        <rect x="54.702" y="35.58" width="85.595" height="15.696" style="fill:#d81f26"/>
+        <rect x="54.702" y="3.724" width="85.595" height="31.857" style="fill:#fff"/>
+    </g>
+</svg>
