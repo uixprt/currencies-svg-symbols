@@ -1,16 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 55 55">
-  <defs>
-    <clipPath id="clip-path">
-      <circle cx="27.5" cy="27.5" r="23.32" fill="none"/>
+    <clipPath id="globalClipPath">
+        <circle cx="27.5" cy="27.5" r="23.3" fill="none"/>
     </clipPath>
-  </defs>
-  <g id="ron">
-    <g clip-path="url(#clip-path)">
-      <g>
+    <g clip-path="url(#globalClipPath)">
         <polygon points="15.84 4.18 39.16 4.18 39.16 50.82 15.84 50.82 15.84 4.18 15.84 4.18" fill="#fedd23"/>
         <polygon points="39.16 4.18 62.48 4.18 62.48 50.82 39.16 50.82 39.16 4.18 39.16 4.18" fill="#ed1d24"/>
         <polygon points="-7.48 4.18 15.84 4.18 15.84 50.82 -7.48 50.82 -7.48 4.18 -7.48 4.18" fill="#214097"/>
-      </g>
+
     </g>
-  </g>
 </svg>

@@ -1,20 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 55 55">
-  <defs>
-    <clipPath id="clip-path">
-      <circle cx="27.5" cy="27.5" r="23.32" fill="none"/>
-    </clipPath>
-    <radialGradient id="New_Gradient_53" data-name="New Gradient 53" cx="40190.73" cy="-13412.03" r="11.71" gradientTransform="translate(-1568.73 558.58) scale(0.04)" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#fff"/>
-      <stop offset="0.75" stop-color="#f05870"/>
-      <stop offset="1" stop-color="#f05770"/>
-    </radialGradient>
-    <radialGradient id="New_Gradient_53-2" cx="24304.7" cy="-45350.71" r="11.72" gradientTransform="translate(-1550.08 635.61) rotate(40.75) scale(0.03)" href="#New_Gradient_53"/>
-    <radialGradient id="New_Gradient_53-3" cx="-2976.49" cy="-40501.74" r="11.72" gradientTransform="matrix(0.01, 0.04, -0.04, 0.01, -1537.16, 689.82)" href="#New_Gradient_53"/>
-  </defs>
-  <g id="mxn">
-    <g clip-path="url(#clip-path)">
-      <g clip-path="url(#clip-path)">
-        <g>
+
+   <clipPath id="globalClipPath">
+    <circle cx="27.5" cy="27.5" r="23.3" fill="none"/>
+  </clipPath>
+  <radialGradient id="New_Gradient_53" data-name="New Gradient 53" cx="40190.73" cy="-13412.03" r="11.71" gradientTransform="translate(-1568.73 558.58) scale(0.04)" gradientUnits="userSpaceOnUse">
+    <stop offset="0" stop-color="#fff"/>
+    <stop offset="0.75" stop-color="#f05870"/>
+    <stop offset="1" stop-color="#f05770"/>
+  </radialGradient>
+  <radialGradient id="New_Gradient_53-2" cx="24304.7" cy="-45350.71" r="11.72" gradientTransform="translate(-1550.08 635.61) rotate(40.75) scale(0.03)" href="#New_Gradient_53"/>
+  <radialGradient id="New_Gradient_53-3" cx="-2976.49" cy="-40501.74" r="11.72" gradientTransform="matrix(0.01, 0.04, -0.04, 0.01, -1537.16, 689.82)" href="#New_Gradient_53"/>
+
+  <g clip-path="url(#globalClipPath)">
           <polygon points="15.84 4.18 39.38 4.18 39.38 50.82 15.84 50.82 15.84 4.18 15.84 4.18" fill="#f1f0f0" fill-rule="evenodd"/>
           <polygon points="-7.48 4.18 15.84 4.18 15.84 50.82 -7.48 50.82 -7.48 4.18 -7.48 4.18" fill="#48b649" fill-rule="evenodd"/>
           <polygon points="39.38 4.18 62.48 4.18 62.48 50.82 39.38 50.82 39.38 4.18 39.38 4.18" fill="#ee2724" fill-rule="evenodd"/>
@@ -418,7 +415,4 @@
             </g>
           </g>
         </g>
-      </g>
-    </g>
-  </g>
 </svg>

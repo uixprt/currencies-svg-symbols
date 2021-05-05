@@ -1,17 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 55 55">
-  <defs>
-    <clipPath id="clip-path">
-      <circle cx="27.5" cy="27.5" r="23.32" fill="none"/>
-    </clipPath>
-  </defs>
-  <g id="myr">
-    <g clip-path="url(#clip-path)">
-      <g>
+  <clipPath id="globalClipPath">
+    <circle cx="27.5" cy="27.5" r="23.3" fill="none"/>
+  </clipPath>
+  <g clip-path="url(#globalClipPath)">
         <path d="M62.48,47.49V44.16h-70v3.33Zm0-6.66V37.49h-70v3.33Zm0-6.66V30.83h-70v3.33Zm0-6.66V24.17h-35V27.5Zm0-6.66V17.5h-35v3.33Zm0-6.66V10.84h-35v3.33Zm0-6.66V4.18h-35V7.51Z" fill="#ee2724" fill-rule="evenodd"/>
         <path d="M27.5,10.84h35V7.51h-35v3.33Zm-35,40h70V47.49h-70v3.33Zm0-6.66h70V40.83h-70v3.33Zm0-6.66h70V34.16h-70v3.33Zm35-6.66h35V27.5h-35v3.33Zm0-6.66h35V20.84h-35v3.33Zm0-6.66h35V14.17h-35V17.5Z" fill="#f4f4f5" fill-rule="evenodd"/>
         <polygon points="-7.48 30.83 27.5 30.83 27.5 4.18 -7.48 4.18 -7.48 30.83 -7.48 30.83" fill="#214097" fill-rule="evenodd"/>
         <path d="M17.15,12.95a6.43,6.43,0,1,0,0,11.63,7.42,7.42,0,1,1,0-11.63Zm3.35,8.18,2.14,3.09L21.5,20.66l3.3,1.88-2.61-2.72,3.81.3-3.56-1.35L26,17.41l-3.81.3L24.79,15l-3.3,1.88,1.14-3.56L20.5,16.4,20,12.71,19.4,16.4l-2.14-3.09,1.14,3.56L15.11,15l2.61,2.72-3.81-.3,3.56,1.35-3.56,1.35,3.81-.3-2.61,2.72,3.3-1.88-1.14,3.56,2.14-3.09L20,24.82l.55-3.69Z" fill="#fedd23" fill-rule="evenodd"/>
-      </g>
-    </g>
   </g>
 </svg>

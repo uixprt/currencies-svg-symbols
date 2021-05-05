@@ -1,15 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 55 55">
-  <defs>
-    <clipPath id="clip-path">
-      <circle cx="27.5" cy="27.5" r="23.32" fill="none"/>
-    </clipPath>
-  </defs>
-  <g id="jpy">
-    <g clip-path="url(#clip-path)">
-      <g>
+  <clipPath id="globalClipPath">
+    <circle cx="27.5" cy="27.5" r="23.3" fill="none"/>
+  </clipPath>
+  <g clip-path="url(#globalClipPath)">
         <polygon points="-7.48 50.82 62.48 50.82 62.48 4.18 -7.48 4.18 -7.48 50.82 -7.48 50.82" fill="#f1f0f0" fill-rule="evenodd"/>
         <path d="M41.49,27.5a14,14,0,1,0-14,14,14,14,0,0,0,14-14Z" fill="#ed1d24" fill-rule="evenodd"/>
-      </g>
-    </g>
+
   </g>
 </svg>

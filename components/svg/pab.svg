@@ -1,1 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 55 55"><defs><clipPath id="a"><circle cx="27.5" cy="27.5" r="23.3" style="fill:none"/></clipPath></defs><g style="clip-path:url(#a)"><rect x="2.026" y="3.398" width="50.949" height="48.204" style="fill:#fff"/><polygon points="16.305 19.51 18.801 17.697 15.716 17.697 14.763 14.763 13.81 17.697 10.725 17.697 13.22 19.51 12.267 22.443 14.763 20.63 17.258 22.443 16.305 19.51" style="fill:#005293"/><rect x="2.026" y="27.5" width="25.474" height="24.102" style="fill:#005293"/><rect x="27.5" y="3.398" width="25.474" height="24.102" style="fill:#d21034"/><polygon points="41.19 34.679 40.237 31.746 39.284 34.679 36.199 34.679 38.695 36.493 37.742 39.426 40.237 37.613 42.733 39.426 41.78 36.493 44.275 34.679 41.19 34.679" style="fill:#d21034"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 55 55">
+    <clipPath id="globalClipPath">
+        <circle cx="27.5" cy="27.5" r="23.3" fill="none"/>
+    </clipPath>
+    <g clip-path="url(#globalClipPath)">
+        <rect x="2.026" y="3.398" width="50.949" height="48.204" style="fill:#fff"/>
+        <polygon
+                points="16.305 19.51 18.801 17.697 15.716 17.697 14.763 14.763 13.81 17.697 10.725 17.697 13.22 19.51 12.267 22.443 14.763 20.63 17.258 22.443 16.305 19.51"
+                style="fill:#005293"/>
+        <rect x="2.026" y="27.5" width="25.474" height="24.102" style="fill:#005293"/>
+        <rect x="27.5" y="3.398" width="25.474" height="24.102" style="fill:#d21034"/>
+        <polygon
+                points="41.19 34.679 40.237 31.746 39.284 34.679 36.199 34.679 38.695 36.493 37.742 39.426 40.237 37.613 42.733 39.426 41.78 36.493 44.275 34.679 41.19 34.679"
+                style="fill:#d21034"/>
+    </g>
+</svg>

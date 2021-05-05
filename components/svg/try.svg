@@ -1,15 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 55 55">
-  <defs>
-    <clipPath id="clip-path">
-      <circle cx="27.5" cy="27.5" r="23.32" fill="none"/>
-    </clipPath>
-  </defs>
-  <g id="try">
-    <g clip-path="url(#clip-path)">
-      <g>
+  <clipPath id="globalClipPath">
+    <circle cx="27.5" cy="27.5" r="23.3" fill="none"/>
+  </clipPath>
+  <g clip-path="url(#globalClipPath)">
         <polygon points="-4.48 4.18 65.48 4.18 65.48 50.82 -4.48 50.82 -4.48 4.18 -4.48 4.18" fill="#ee2724"/>
         <path d="M18.67,15.29a12.2,12.2,0,0,1,10.15,5.42,9.78,9.78,0,1,0-7,16.51,9.87,9.87,0,0,0,7-2.93,12.22,12.22,0,1,1-10.16-19Zm14.64,6.4,2.52,3.55L40,23.93l-2.6,3.49L39.91,31l-4.13-1.39-2.58,3.5,0-4.35-4.13-1.38L33.27,26l0-4.35Z" fill="#fff" fill-rule="evenodd"/>
-      </g>
-    </g>
   </g>
 </svg>
